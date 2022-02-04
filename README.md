@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Patri 👋
 
-<!--
-**PatriMalvido/PatriMalvido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![PatriLimited Edition](https://user-images.githubusercontent.com/93192372/152589667-acff0cc7-e2ea-4644-9eb2-9859da9e6b05.jpg)
 
-Here are some ideas to get you started:
+## I'm studying to be a future junior frontend developer who learns something new every day!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🌱 I’m currently learning programming in [Adalab](https://adalab.es/)
+ 
+ 📫 How to reach me:
+ 
+[![twitter_logo_icon_132881](https://user-images.githubusercontent.com/93192372/152584090-f9e5870f-2373-4095-b31a-33471509b42b.png)](https://twitter.com/patrimalvido)
+ 
+## Languajes and Tools:
+
+
+
