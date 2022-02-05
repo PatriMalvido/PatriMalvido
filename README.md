@@ -1,6 +1,7 @@
 # Hi, I'm Patri 👋
 
-![PatriLimited Edition](https://user-images.githubusercontent.com/93192372/152589667-acff0cc7-e2ea-4644-9eb2-9859da9e6b05.jpg)
+ ![PatriLimited EditionCartoon](https://user-images.githubusercontent.com/93192372/152641300-a8d418b6-09cc-4a58-baed-3b92e7558b01.jpg)
+
 
 ## I'm studying to be a future junior frontend developer who learns something new every day!
 
