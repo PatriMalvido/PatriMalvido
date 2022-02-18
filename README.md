@@ -8,7 +8,7 @@
 
  🌱 Actualmente sigo aprendiendo JavaScript y React
  
- 👯 Estoy buscando mi primer trabajo como Desarroladora Front-end
+ 👯 Estoy buscando mi primer trabajo como Desarrolladora Front-end
  
  
 ## Tecnologías:
