@@ -4,7 +4,7 @@
  
 ![PatriLimited Edition400x400](https://user-images.githubusercontent.com/93192372/152641757-97097b3e-65d7-47cf-b02f-dc60cebab285.jpg)
  
-:rocket: Echa un vistazo a mi portfolio [](https://patrimalvido.github.io/Portfolio/)
+:rocket: Echa un vistazo a mi [portfolio](https://patrimalvido.github.io/Portfolio/)
 
  🌱 Actualmente sigo aprendiendo JavaScript y React
  
