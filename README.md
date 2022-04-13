@@ -6,9 +6,8 @@
  
 :rocket: Echa un vistazo a mi [portfolio](https://patrimalvido.github.io/Portfolio/)
 
- 🌱 Actualmente sigo aprendiendo JavaScript y React
- 
- 👯 Estoy buscando mi primer trabajo como Desarrolladora Front-end
+ 🌱 Actualmente estoy aprendiendo Angular, Typescript y mas!
+ 👯 Acabo de empezar a trabajar como Frontend developer intern 
  
  
 ## Tecnologías:
